@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b159740a04f34b34424938ed",
+  "owner": "apcx3nqcm",
+  "repo": "page-69b68a6f6c07c0f6751aa059",
+  "title": "大白互联(DBAICloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "69b68a6f6c07c0f6751aa059",
+      "a": "大白互联(DBAICloud)",
+      "b": "稳定全球clash加速器",
+      "entity": "大白互联(DBAICloud)",
+      "brand": "大白互联(DBAICloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9accc05d66b9bdc3dee0a03a2ecec15d4e50254f3a31d41a05038794bf880257",
+      "content": {
+        "primary_entity": "大白互联(DBAICloud)",
+        "keyword1": "大白互联(DBAICloud)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，大白互联(DBAICloud)把节点选择、设备数量与订阅周期拆成三档套餐，基础版每月15元含100GB流量与3台设备，旗舰版每月35元含300GB流量、5台设备并加入IPLC专线优化，团队版每月85元含1000GB流量与20台设备，年付分别仅需150元、350元、850元，按需选档即可。",
+          "AI_HERO_SUBTITLE": "客户端按设备挑，套餐按流量选",
+          "AI_HERO_INTRO": "大白互联(DBAICloud)面向需要稳定全球加速的用户，提供Clash订阅服务。基础版、旗舰版与团队版在流量、设备数量与线路池上各有侧重，选择时先看常用设备数量，再对照每月流量占用，最后确定月付或年付周期。",
+          "AI_VISUAL_TITLE": "选对套餐，连接更顺",
+          "AI_HIGHLIGHT_1": "旗舰版含IPLC专线，游戏延迟更稳",
+          "AI_HIGHLIGHT_2": "团队版20台设备，适合小团队共享",
+          "AI_HIGHLIGHT_3": "年付比月付省两个月费用",
+          "AI_FEATURES_TITLE": "套餐差异与选择要点",
+          "AI_FEATURES_INTRO": "三个版本在流量额度、在线设备和线路类型上形成阶梯，按实际使用量对号入座即可。",
+          "AI_FEATURE_TITLE_1": "先看设备数量",
+          "AI_FEATURE_TEXT_1": "基础版3台、旗舰版5台、团队版20台，按家中或团队常用终端数量选定档位，避免中途换套餐。",
+          "AI_FEATURE_TITLE_2": "再对流量额度",
+          "AI_FEATURE_TEXT_2": "100GB适合轻量浏览，300GB覆盖多数日常影音，1000GB面向多人共享与高频下载。",
+          "AI_FEATURE_TITLE_3": "最后定周期",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付划算，基础版年付150元、旗舰版350元、团队版850元，比按月支付更省。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版每月15元、旗舰版每月35元、团队版每月85元，流量与设备数逐档上升，旗舰版额外提供IPLC专线与优先工单支持。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "Windows与macOS可选用Clash Verge Rev或ClashX，Android常用Clash Meta for Android，iOS可选Stash或Shadowrocket，路由器端可部署OpenClash，具体以各客户端文档为准。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，按顺序操作即可。",
+          "AI_STEP_TITLE_1": "确认套餐与设备",
+          "AI_STEP_TEXT_1": "根据常用终端数量与每月流量，在基础版、旗舰版、团队版中锁定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "对照所使用的系统与客户端版本，确认支持Clash订阅导入或手动配置。",
+          "AI_STEP_TITLE_3": "导入订阅并连接",
+          "AI_STEP_TEXT_3": "在客户端订阅页面粘贴配置文件地址，更新节点后按客户端文档选择线路并启用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_CLOSING_TEXT": "先确定设备数和流量档位，再前往选购对应版本。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_1": "打开所选客户端，找到订阅或配置导入入口，粘贴分配到的订阅地址，保存后更新节点列表即可使用，具体按钮位置以客户端界面为准。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版为5台，团队版可容纳20台。超出上限时较早的设备可能被挤下线，按所选套餐控制同时在线数量。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费、灵活度更高，年付一次性支付十二个月费用，价格相当于十个月月费。基础版年付¥150，旗舰版¥350，团队版¥850。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "套餐内流量按月重置，当月用完可等待下月重置，或手动升级到更高流量档位。升级后可立即使用新增流量，具体操作在订阅管理中进行。",
+          "AI_FAQ_QUESTION_5": "IPLC专线和普通节点有什么区别？",
+          "AI_FAQ_ANSWER_5": "普通节点池适合日常网页与流媒体访问；IPLC专线在延迟和稳定性上更有优势，适合游戏加速等对实时性要求高的场景，旗舰版及以上套餐包含。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tzwtptc.cn",
+    "host": "tzwtptc.cn"
+  },
+  "file_hashes": {
+    "index.html": "6cdad4636968e25c854113e0fc38b0031a999bdc3ab4f26e5f30b3a8230e4bac",
+    "sitemap.xml": "136c16e016c9495d95468f1d6d2a21a3404dd77337077e704d77644196c48742",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "416e4fcf8803efcb012c21d7fc1787ec8e6dac9f7df374ca05fe03cf0a922a98",
+    "robots.txt": "08df9ebc410bf507c94e7565c468c49138f73728b23d7cb784e71d8af6f659e8",
+    "dfbd793b91a4f151a8d614caf0ff7adc.txt": "21028217efdae0af4a16b7014f302cf4ca2233163edd63a136754550b169e589"
+  },
+  "revision": "5e144c40b7f3bb84404dc9d54f70a67c0222502a54312a01a87e6f88999d1867"
+}
